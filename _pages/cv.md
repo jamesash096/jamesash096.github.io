@@ -9,56 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### <span>Senior Consultant, Hitachi Vantara</span> <span>Oct 2022 -- Jul 2024</span>
+  * Handled full-stack development and deployment of Data Science projects for Data Science teams of US based hydrocarbon exploration companies as part of Hitachi's DS & Analytics division
+  * Improved performance of pump failure prediction project by reducing pipeline processing time upto 83%
+  * Optimized performance of logarithmic reconstruction application using caching and code refactoring by 10% - Streamlit, Pandas, Plotly
+  * Constructed front-end dashboards for ML prediction algorithms for drilling teams to streamline data analysis and save time - Streamlit, Plotly, Pandas
+  * Co-ordinated training sessions for senior and staff data scientists in order to facilitate clear understanding of applications within 1 day
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### <span>Senior Engineer, HTC Global Services</span> <span>Jan 2021 -- Oct 2022</span>
+  * Lead engineer on package assignment web application for PSU Banks as part of Cloud and Infra Services division - Python, Django, PostgreSQL, React
+  * Co-ordinated with stakeholders for new features and delivered development milestones within prescribed deadlines
+  * Created application documentation to accelerate onboarding of new recruits onto project within 2 days, handled knowledge transfer sessions
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### <span>Software Development Engineer, HTC Global Services</span> <span>Jan 2018 -- Dec 2020</span>
+  * Developed, tested and delivered self-service portals for US hospitals - Bootstrap, Python, Django and PostgreSQL
+  * Developed class based views for Service Requests and Problem Tickets for entire project, reducing code redundancy by 16%
+  * Developed API development app to reduce API code redundancy and complexity
+
+Education
+======
+* M.S. in Business Analytics, Carlson School of Management, University of Minnesota, August 2025 (expected)
+* B.E in Computer Science & Engineering, St. Joseph's College of Engineering, Anna University, June 2018
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technical Languages: Python, R, Javascript (JS5), Shell Scripting, Databases (MongoDB, PostGreSQL, MS SQL)
+* Technical Skills: Linux (BASH), Streamlit, Django, Docker, Git, NGINX, REST APIs, Microsoft Azure
 
-Publications
+Languages
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* English
+* Tamil
+* Japanese
